@@ -1,1 +1,1 @@
-This folder contains all Python scripts used for data cleaning, merging, modeling, and visualization.
+This folder contains all scripts used for data cleaning, merging, modeling, and visualization.
