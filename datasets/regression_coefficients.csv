@@ -1,0 +1,7 @@
+model,predictor,beta,std_beta,se,t_stat,p_value,ci_low,ci_high,significant
+Median Home Value,median_household_income,3.6161,0.5581,0.4979,7.263,0.0,2.6305,4.6017,Yes
+Median Home Value,pct_bachelors,5108.5953,0.4495,742.832,6.877,0.0,3638.0852,6579.1055,Yes
+Median Home Value,median_year_built,-2199.2012,-0.153,800.6029,-2.747,0.0069,-3784.0746,-614.3278,Yes
+Median Gross Rent,median_household_income,0.0097,0.663,0.0012,8.008,0.0,0.0073,0.0121,Yes
+Median Gross Rent,pct_bachelors,2.5606,0.0998,1.8074,1.417,0.1591,-1.0173,6.1385,No
+Median Gross Rent,median_year_built,5.8547,0.1804,1.948,3.006,0.0032,1.9985,9.7108,Yes

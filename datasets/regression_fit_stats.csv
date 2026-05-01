@@ -1,0 +1,3 @@
+model,n,r_squared,adj_r_squared,f_statistic,f_p_value,df_model,df_resid
+Median Home Value,126,0.7615,0.7556,129.84,0,3,122
+Median Gross Rent,126,0.7231,0.7163,106.2,0,3,122
